@@ -8,3 +8,5 @@
 Hello Masami Nagasawa
 
 Hello Mr.Ishihara
+
+Good Morning, Masami Nagasawa
