@@ -6,3 +6,5 @@
 
 長谷川 聖昌
 Hello Masami Nagasawa
+
+Hello Mr.Ishihara
