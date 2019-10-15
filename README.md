@@ -5,5 +5,4 @@
 新しいブランチに書き込んでみました。
 
 長谷川 聖昌
-Hello Suzu Hirose
-dareyanenn
+Hello Masami Nagasawa
